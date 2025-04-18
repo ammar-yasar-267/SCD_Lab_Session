@@ -1,0 +1,8 @@
+node_modules
+
+./api-gateway/node_modules
+./customer-services/node_modules
+./order-services/node_modules
+./inventory-services/node_modules
+./menu-services/node_modules
+./payment-services/node_modules
